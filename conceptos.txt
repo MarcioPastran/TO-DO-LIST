@@ -1,0 +1,25 @@
+CONCEPTOS JAVASCRIPT APLICADOS
+
+1-Creacion de variables y constantes (let y const)
+2-como traer elementos desde HTML para integrarlos con Javascript (document.querySelector)
+3-uso de funcion fecha del navegador new Date()
+4-uso de funciones declaradas y arrow funtion
+5-Implementacion de Arrays, para gurdar informacion
+.6Uso de condicionales if para definir condiciones y operadores ternarios (? :)
+7-Uso del LocalStorage del Navegador para guardar informacion y poder usarla para almacenar nuestras tareas 
+(Uso del SetItme y GeetItem, Formato JSON, Parse y Stringify)
+8-Uso de return
+
+METODOS Y PROPIEDADES
+ClassList y toggle para manupular las clases de un elemento desde javascript 
+parentNode para definir elementos padre 
+remove.child para eliminar elementos hijo 
+addEventListener para agregar eventos click y teclas en elementos de HTML
+Push usado para ingresar elementos dentro de un Array
+Value para ver los valores que obtienen ciertos elementos 
+Attributes para obtener los atributos de un elemento 
+forEach para recorrer elementos dentro de un Array
+insertAdjacentHTML nos permite pegar codigo en cualquer parte de nuestro HTML desde JS
+
+
+
